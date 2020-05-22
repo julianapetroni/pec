@@ -1,16 +1,16 @@
-# pec
+# PEC
 
-Cartão PEC.
+PEC Card.
 
-## Getting Started
+## Project Information
 
-This project is a starting point for a Flutter application.
+A Flutter application to request a transport card.
+The user can create a profile, send documents and check the status of the process.
+To send the necessary documents, the user can select photos from the gallery or take a new one.
 
-A few resources to get you started if this is your first Flutter project:
+## Some Project Screens
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="324" alt="Captura de Tela 2020-05-04 às 15 47 33" src="https://user-images.githubusercontent.com/30326310/82712161-d3f28780-9c5d-11ea-8159-355031fe962f.png">
+<img width="322" alt="Captura de Tela 2020-05-04 às 16 42 48" src="https://user-images.githubusercontent.com/30326310/82712183-dbb22c00-9c5d-11ea-867c-a0d35c66a7d3.png">
+<img width="319" alt="Captura de Tela 2020-05-04 às 16 43 46" src="https://user-images.githubusercontent.com/30326310/82712188-dead1c80-9c5d-11ea-8d9d-be5883687e6c.png">
+<img width="324" alt="Captura de Tela 2020-05-04 às 16 44 30" src="https://user-images.githubusercontent.com/30326310/82712192-dfde4980-9c5d-11ea-85cf-d473d2e0ff7c.png">
