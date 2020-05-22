@@ -6,7 +6,7 @@ PEC Card.
 
 A Flutter application to request a transport card.
 The user can create a profile, send documents and check the status of the process.
-To send the necessary documents, the user can select photos from the gallery or take a new one.
+To send the required documents, the user can select photos from the gallery or take a new one.
 
 ## Some Project Screens
 
