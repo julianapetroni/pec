@@ -14,3 +14,5 @@ To send the required documents, the user can select photos from the gallery or t
 <img width="322" alt="Captura de Tela 2020-05-04 às 16 42 48" src="https://user-images.githubusercontent.com/30326310/82712183-dbb22c00-9c5d-11ea-867c-a0d35c66a7d3.png">
 <img width="319" alt="Captura de Tela 2020-05-04 às 16 43 46" src="https://user-images.githubusercontent.com/30326310/82712188-dead1c80-9c5d-11ea-8d9d-be5883687e6c.png">
 <img width="324" alt="Captura de Tela 2020-05-04 às 16 44 30" src="https://user-images.githubusercontent.com/30326310/82712192-dfde4980-9c5d-11ea-85cf-d473d2e0ff7c.png">
+<img width="346" alt="Captura de Tela 2020-06-05 às 09 58 37" src="https://user-images.githubusercontent.com/30326310/83982214-3d7bc280-a8fb-11ea-9b3f-145f7bb89699.png">
+
